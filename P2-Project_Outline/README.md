@@ -7,17 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-For many paranormal-enthusiasts, it can be challenging to find a cohesive collection of authentic supernatural locations to explore. Get Weird will be an application where users can find a compilation of ghost, alien, and bigfoot landmarks across the country. Users will be able to search for interesting and mysterious places to visit, as well as, read reviews from other users, and create their own reviews on sites they have explored. 
+For many paranormal-enthusiasts, it can be challenging to find a cohesive collection of authentic supernatural locations to explore. Get Weird will be an application where users can find a compilation of ghost, alien, and other unexplained phenomena landmarks across the country. Users will be able to search for interesting and mysterious places to visit, as well as, read reviews from other users, and create their own reviews on sites they have explored.
 ### Features
-User Accounts: Users will be able to create an account and login.
--Users will have profiles that include sites they would like to visit.
+User Accounts: Users will be able to create an account and login. Users will have profiles that include sites they would like to visit.
 Search: Users can search paranormal sites by location and type of phenomena.
-- Ability to sort results by features and location.
-- Results include address and link to websites and location.
-Maps: Users will be able to view locations on a map of the United States (via Google maps).
-Reviews: Users will be able to review individual sites.
-- Implement a rating system(e.g. 1-5 star system) where users can rate the site.
-- Ability to edit or delete review.
+Maps: Users will be able to view paranormal locations on a map of the United States (via Google maps or similiar).
+Reviews: Users will be able to review individual sites. A rating system(e.g. 1-5 star system) where users can rate the site. Users will have the ability to edit or delete review.
 ### Technologies
 - JavaScript
 - Html and CSS
