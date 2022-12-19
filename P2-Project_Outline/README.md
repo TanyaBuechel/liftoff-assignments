@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+For many paranormal-enthusiasts, it can be challenging to find a cohesive collection of authentic supernatural locations to explore. Get Weird will be an application where users can find a compilation of ghost, alien, and bigfoot landmarks across the country. Users will be able to search for interesting and mysterious places to visit, as well as, read reviews from other users, and create their own reviews on sites they have explored. 
 ### Features
-Include Features here
+User Accounts: Users will be able to create an account and login.
+-Users will have profiles that include sites they would like to visit.
+Search: Users can search paranormal sites by location and type of phenomena.
+- Ability to sort results by features and location.
+- Results include address and link to websites and location.
+Maps: Users will be able to view locations on a map of the United States (via Google maps).
+Reviews: Users will be able to review individual sites.
+- Implement a rating system(e.g. 1-5 star system) where users can rate the site.
+- Ability to edit or delete review.
 ### Technologies
-Include Technologies here
+- JavaScript
+- Html and CSS
+- C#
+- ASP.NET Core MVC
+- Google maps API
 ### What I'll Have to Learn
-Include what you will need to learn here
+While developing the Get Weird application, I will have to learn how to implement data from a public API. I will also need to figure out how to use HTML and CSS for a better user-friendly design. I would also like to learn how to authenticate a user through Google and how to use a map on the website to show different locations.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/invite/b/Mqo2zVIi/ATTIb26ea0c25d747d0bbe59acf78b582d6cD1D301FE/supernatural-sightings-app
